@@ -5,8 +5,14 @@
 # About
 This directory allows employers to easily sort through their employees. As each new character is typed into the search bar, irrelevant data points disappear, making it much simpler to identify the desired search.
 
+# Features
+- Sort alphabetically by clicking the triangle next to the "Name" header.
+- Simply type the name you are looking for in the search bar and watch your results appear.
+
 # Technologies Used
--  React
+- React
+- HTML
+- CSS
 
 # Live Site
 https://warm-mountain-44324.herokuapp.com/
